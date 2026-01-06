@@ -1,0 +1,5 @@
+{
+  "name": "Intelligence Hub AI",
+  "description": "An automated industry intelligence system that tracks custom sources, generates weekly summaries using Gemini, and provides automated reporting features.",
+  "requestFramePermissions": []
+}
